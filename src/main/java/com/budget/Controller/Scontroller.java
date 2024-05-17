@@ -11,7 +11,7 @@ public class Scontroller {
     @RequestMapping(value = "/hello" , method = RequestMethod.GET)
     @ResponseBody
     public String helloEx() {
-        return "6666666666666666666666666666";
+        return "SHIKAMARU";
 
     }
 }
